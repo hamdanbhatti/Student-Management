@@ -1,4 +1,4 @@
-// #!/usr/bin/env node
+#!/usr/bin/env node
 // console.log(
 //    chalk
 //       .rgb(17, 215, 215)
