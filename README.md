@@ -3,16 +3,22 @@ This is a command-line interface (CLI) application for managing student informat
 
 # Features
 # Add Students:<br> Enroll new students with their name and age.<br>
-# View Courses:<br> Display a list of available courses.
-# Enroll Student:<br> Register students for specific courses.
-# View Balance:<br> Check the current balance of a student.
-# Pay Fees:<br> Process fee payments for enrolled courses.
-# View Student Details:<br> Access detailed information about students, including:<br>
+# View Courses:<br>
+Display a list of available courses.
+# Enroll Student:<br>
+Register students for specific courses.
+# View Balance:<br>
+Check the current balance of a student.
+# Pay Fees:<br>
+Process fee payments for enrolled courses.
+# View Student Details:<br>
+Access detailed information about students, including:<br>
 1:View all students
 2:Search for a specific student
-# Exit:<br> Gracefully terminate the program.
+# Exit:<br>
+Gracefully terminate the program.
 # Key Components
-Uses <var>inquirer<var> for interactive command-line prompts.<br>
+Uses <q>inquirer<q> for interactive command-line prompts.<br>
 Implements chalk for colorful and styled console output.<br>
 Stores student data in a structured format.<br>
 Provides input validation for user entries.<br>
